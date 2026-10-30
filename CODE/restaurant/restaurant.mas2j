@@ -1,0 +1,12 @@
+MAS restaurant {
+
+	infrastructure: Centralised
+
+	agents:
+		client;
+		host;
+		floor_manager;
+		
+	aslSourcePath:
+		"src/asl";
+}
